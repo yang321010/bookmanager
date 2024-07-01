@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/library1.jpeg</file>
+        <file>img/zjulibrary.jpg</file>
+        <file>img/library2.jpeg</file>
+        <file>signup.ui</file>
+    </qresource>
+</RCC>
